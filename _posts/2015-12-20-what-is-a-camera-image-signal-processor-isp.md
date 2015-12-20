@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Explanation of the function of an ISP in a camera
-datePublished: '2015-12-20T04:00:05.624Z'
-dateModified: '2015-12-20T04:00:00.048Z'
+datePublished: '2015-12-20T04:03:49.562Z'
+dateModified: '2015-12-20T04:03:45.274Z'
 title: What is an Image Signal Processor (ISP)?
 author: []
 sourcePath: _posts/2015-12-20-what-is-a-camera-image-signal-processor-isp.md
@@ -22,12 +22,9 @@ url: what-is-a-camera-image-signal-processor-isp/index.html
 _type: Article
 
 ---
-# 
-
-# 
-
-What is an Image Signal Processor (ISP)?
+# What is an Image Signal Processor (ISP)?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/efe9f816-bf25-490e-a849-b71ebcce8c88.JPG)
 
 In a camera, it is the block that consumes the output of the sensor and produces an image that can be sent to a display.
+null
 null
