@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Explanation of the function of an ISP in a camera
-datePublished: '2015-12-20T03:30:37.705Z'
-dateModified: '2015-12-20T03:30:10.149Z'
+datePublished: '2015-12-20T03:31:01.624Z'
+dateModified: '2015-12-20T03:30:37.705Z'
 title: What is a camera Image Signal Processor (ISP)?
 author: []
 authors: []
