@@ -4,14 +4,14 @@
         <description><![CDATA[Linear Edge Computing]]></description>
         <link>https://thegrid.ai/linear-edge-computing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 04:00:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2015 04:03:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linear-edge-computing/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What is an Image Signal Processor (ISP)?]]></title>
-            <description><![CDATA[<article><h1></h1><p>In a camera, it is the block that consumes the output of the sensor and produces an image that can be sent to a display.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0917d5f7e96c8db9101a553101726640e54b22d.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>What is an Image Signal Processor (ISP)?</h1><p>In a camera, it is the block that consumes the output of the sensor and produces an image that can be sent to a display.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0917d5f7e96c8db9101a553101726640e54b22d.jpg"></article>]]></description>
             <link>https://thegrid.ai/linear-edge-computing/what-is-a-camera-image-signal-processor-isp/index.html</link>
             <guid isPermaLink="false">f44e276d-e194-467d-b7ab-5c3865f15193</guid>
-            <pubDate>Sun, 20 Dec 2015 04:00:05 GMT</pubDate>
+            <pubDate>Sun, 20 Dec 2015 04:03:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
