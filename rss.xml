@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Linear Edge Computing]]></title>
         <description><![CDATA[Linear Edge Computing]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/linear-edge-computing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 03:30:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Dec 2015 03:31:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/linear-edge-computing/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What is a camera Image Signal Processor (ISP)?]]></title>
             <description><![CDATA[<article><h1>What is a camera Image Signal Processor (ISP)?</h1><p>What is a camera Image Signal Processor?</p></article>]]></description>
-            <link>undefinedwhat-is-a-camera-image-signal-processor-isp/index.html</link>
+            <link>https://thegrid.ai/linear-edge-computing/what-is-a-camera-image-signal-processor-isp/index.html</link>
             <guid isPermaLink="false">f44e276d-e194-467d-b7ab-5c3865f15193</guid>
-            <pubDate>Sun, 20 Dec 2015 03:30:37 GMT</pubDate>
+            <pubDate>Sun, 20 Dec 2015 03:31:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
